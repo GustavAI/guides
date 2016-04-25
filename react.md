@@ -1,4 +1,4 @@
-# Gustave React/JSX Style Guide
+# Gustav React/JSX Style Guide
 
 *A mostly reasonable approach to React and JSX*
 

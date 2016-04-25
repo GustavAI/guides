@@ -1,4 +1,4 @@
-# Gustave JavaScript Style Guide() {
+# Gustave JavaScript Style Guide
 
 *A mostly reasonable approach to JavaScript*
 

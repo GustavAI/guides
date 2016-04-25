@@ -1,6 +1,9 @@
-# Airbnb React/JSX Style Guide
+# Gustave React/JSX Style Guide
 
 *A mostly reasonable approach to React and JSX*
+
+Based on [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+
 
 ## Table of Contents
 
@@ -443,6 +446,7 @@
   1. `render`
 
   - How to define `propTypes`, `defaultProps`, `contextTypes`, etc...
+  * Why? This keeps things consistent for both class components and functional stateless components. *
 
     ```jsx
     import React, { PropTypes } from 'react';

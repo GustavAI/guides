@@ -3,3 +3,4 @@ A collection of style guides to keep things reasonably reasonable and mildly san
 
 - [JavaScript](javascript.md)
 - [React](react.md)
+- [Commits](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelines)
